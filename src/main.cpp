@@ -100,7 +100,7 @@ void loop()
     //measure = at.getVoltage();
     delay(500);
     // measure = analogRead(irsens);
-    // measure1 = analogRead(7);
+    measure1 = analogRead(7);
     // measure2 = analogRead(8);
     // measure3 = analogRead(9);
     // measure4 = analogRead(10);
